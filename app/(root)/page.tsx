@@ -3,8 +3,8 @@ import React from 'react'
 
 export default function HomePage() {
   return (
-    <div>
-      PRIVATE ROUTE 
+    <div className='min-h-screen'>
+      Bem vindo
       <SignOutButton />
     </div>
   )
